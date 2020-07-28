@@ -41,7 +41,7 @@ body{
 }
 .dawn{
 	height:300px;
-	width:480px;
+	width:100%;
 vertical-align:bottom;}
 
 
@@ -65,7 +65,7 @@ vertical-align:bottom;}
 .main{
 	background-image:linear-gradient(red,blue);
 	height:200px;
-	width:480px; 
+	width:100%; 
 
 }
 	 
