@@ -1,14 +1,188 @@
-/*Assigning colours to various parts*/
-h1
-    {
-        color:#FF0000;
-    }
-h2
-{
-    color:#8B0000;
+body{
+	align-self:center 
+}
+
+
+
+
+.header{
+	height:20px;
+	position:fixed;
+	  width:480px;  
+	background-image:linear-gradient(navy,red); 
+	font-size:5px;
+	font-family:'Lucida Grande'; 
+	border:3px solid linear-gradient(red,orange);
+	list-style:none;
+	float:left;
+	vertical-align:top; 
+
 
 }
-h3
-{
-    color:#2e8bf7;
+.header a{
+
+
+	list-style:none;
+	float:left;
+
+	color:#ffffff;
+	text-decoration:none; 
+	padding:3px 25px;
+	font-size:5px;
+
+}
+
+.header li{
+	list-style:none;
+	float:left;
+}
+.dawn{
+	height:300px;
+	width:480px;
+vertical-align:bottom;}
+
+
+
+
+
+.webdiv{
+	background-image:linear-gradient(red,blue);
+	height:300px;
+	border-top:3px solid red;
+	width:480px;
+	vertical-align:bottom;   
+	color:#ffffff;
+	text-decoration:none; 
+	}	
+.webdiv h1{
+	text-align:center;
+	font-size:10px;
+	
+}
+.main{
+	background-image:linear-gradient(red,blue);
+	height:200px;
+	width:480px; 
+
+}
+	 
+
+
+.webdiv img{
+	width:200px;
+	height:150px;
+	padding:2px 2px 1px 1px;
+
+
+
+}
+.webdiv p{
+	padding-top:5px;
+	color:#fff;
+	font-size:7px;
+
+}
+
+.text{
+	float:right;
+	width:250px;
+}
+.last{
+	padding-top:10px;
+}
+.htmlheading{
+	padding-top:2px;
+	color:#ffffff;
+	text-align:center;} 
+	
+
+.htmldiv{
+	border:1px solid #ff4500;
+	border-bottom:1px solid turquoise;
+	height:300px;
+	width:480px;
+	background-image:linear-gradient(red,black);
+	color:#ff4500;
+font-size:5px;}
+
+
+.htmlimage
+{width:480px;
+	height:170px;
+}
+.para{
+	border:1px solid #0000;
+	padding:1px;
+}
+.cssdiv{
+	border-top:1px solid turquoise;
+	background-image:linear-gradient(turquoise,midnightblue); 
+color:#000000;
+height:300px;
+width:480px;
+font size:3px;
+
+
+}
+.cssdiv img{
+	height:250px;
+	width:200px;
+}
+.cssdiv h1{
+	text-align:center;
+	color:#ffffff;
+	font-size:10px;
+ 
+}
+.cssdiv p{
+	float:right;
+	width:250px;
+	height:600px;
+	color:#ffffff; 
+	font-size:7px;
+	
+}
+.Javascript{
+	background-color:#000;
+	color:#ffd700; 
+	border-top:1px solid #ffd700;
+	height:300px;
+	width:480px;
+	
+	
+
+}
+
+}
+.Javascript h1{
+	text-align:center;
+	font-size:5px;
+	
+}
+
+
+
+.Javascript p{
+	font-size:8px;
+ width:450px;
+
+	
+	
+
+}
+
+
+
+
+.me{
+	
+	background-image:linear-gradient(turquoise,navy);
+	padding:50px 50px 50px  60px;
+	height:300px;
+	 
+	width:370px;
+}
+.me h2{text-align:center;
+	font-size:70px;
+
 }
